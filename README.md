@@ -1,7 +1,18 @@
-# 💫 About Me:
-Hi there! I'm a passionate full stack developer who loves building, learning, and experimenting with code.  
-Currently exploring the world of AI/ML, web development, and open source.  
-Always up for a challenge and love solving real-world problems with technology.  
+# 💫 About Me
+
+👋 Hi there! I'm a **Solutions Engineer & Full-Stack Developer** with 3+ years of experience bridging the gap between business needs and technical solutions.
+
+💻 Passionate about building scalable applications, designing REST APIs, integrating third-party services, and solving real-world problems through technology.
+
+🤖 Currently exploring **AI/ML, Generative AI, LLM integrations, and intelligent automation**, while strengthening my expertise in backend engineering and cloud technologies.
+
+🚀 Experienced with **Python, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, and Docker**.
+
+🔧 Recently built an **Enterprise API Integration Platform** featuring asynchronous processing, API authentication, idempotency, retry mechanisms, failure recovery, and a React monitoring dashboard.
+
+🤝 I enjoy collaborating with cross-functional teams, translating complex requirements into practical solutions, and continuously learning new technologies.
+
+🌱 Always learning, building, and exploring opportunities in **Solutions Engineering, Software Engineering, and AI-powered applications**.
 
 ---
 
