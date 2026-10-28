@@ -6,9 +6,7 @@
 
 🤖 Currently exploring **AI/ML, Generative AI, LLM integrations, and intelligent automation**, while strengthening my expertise in backend engineering and cloud technologies.
 
-🚀 Experienced with **Python, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, and Docker**.
-
-🔧 Recently built an **Enterprise API Integration Platform** featuring asynchronous processing, API authentication, idempotency, retry mechanisms, failure recovery, and a React monitoring dashboard.
+🚀 Experienced with **Python,Java, JavaScript, TypeScript, React, Node.js, FastAPI, PostgreSQL, MongoDB, and Docker**.
 
 🤝 I enjoy collaborating with cross-functional teams, translating complex requirements into practical solutions, and continuously learning new technologies.
 
